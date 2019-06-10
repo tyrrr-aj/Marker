@@ -1,0 +1,1 @@
+flatMap(all => all.split(";")).map(entry => entry.split(",")).map{case Array(key, sLevel) => (key, sLevel)}.map{case (key, sLevel) => (key, sLevel.toInt)}.collect()

@@ -4,7 +4,7 @@
 		module="marker_2.12"
 		revision="1.0"
 		status="integration"
-		publication="20190608163538"
+		publication="20190610090451"
 	>
 		<description>
 		Marker
@@ -34,5 +34,7 @@
 		<dependency org="org.scala-lang" name="scala-library" rev="2.12.8" conf="scala-tool->default,optional(default);compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-core_2.12" rev="2.4.3" conf="compile->default(compile)"/>
 		<dependency org="org.apache.spark" name="spark-sql_2.12" rev="2.4.3" conf="compile->default(compile)"/>
+		<dependency org="org.apache.spark" name="spark-streaming_2.12" rev="2.4.3" conf="provided->default(compile)"/>
+		<dependency org="org.apache.bahir" name="spark-streaming-akka_2.12" rev="2.4.0-SNAPSHOT" conf="compile->default(compile)"/>
 	</dependencies>
 </ivy-module>

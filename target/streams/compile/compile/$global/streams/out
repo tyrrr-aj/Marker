@@ -1,6 +1,2 @@
 [debug] Acquiring lock on file C:\Spark\Apps\Marker\project\target\.sbt-compilation-infos\marker-compile\.sbt-idea-lock ...
-[warn] C:\Spark\Apps\Marker\src\main\scala\marker\session_management\SessionManager.scala:35:5: A try without a catch or finally is equivalent to putting its body in a block; no exceptions are handled.
-[warn]     try { hdfs.delete(new org.apache.hadoop.fs.Path(path), true) }
-[warn]     ^
-[warn] one warning found
 [debug] Releasing lock on file C:\Spark\Apps\Marker\project\target\.sbt-compilation-infos\marker-compile\.sbt-idea-lock.

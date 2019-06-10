@@ -4,7 +4,7 @@
 		module="marker-build"
 		revision="0.1.0-SNAPSHOT"
 		status="integration"
-		publication="20190609014110"
+		publication="20190609070908"
 		e:sbtVersion="1.0" e:scalaVersion="2.12"
 	>
 		<description>

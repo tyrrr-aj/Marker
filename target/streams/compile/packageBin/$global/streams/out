@@ -1,15 +1,1 @@
-[info] Packaging C:\Spark\Apps\Marker\target\scala-2.12\marker_2.12-1.0.jar ...
-[debug] Input file mappings:
-[debug] 	marker\text_analysis
-[debug] 	  C:\Spark\Apps\Marker\target\scala-2.12\classes\marker\text_analysis
-[debug] 	marker\session_management
-[debug] 	  C:\Spark\Apps\Marker\target\scala-2.12\classes\marker\session_management
-[debug] 	marker\session_management\SessionManager$.class
-[debug] 	  C:\Spark\Apps\Marker\target\scala-2.12\classes\marker\session_management\SessionManager$.class
-[debug] 	marker\text_analysis\Message.class
-[debug] 	  C:\Spark\Apps\Marker\target\scala-2.12\classes\marker\text_analysis\Message.class
-[debug] 	marker
-[debug] 	  C:\Spark\Apps\Marker\target\scala-2.12\classes\marker
-[debug] 	marker\session_management\SessionManager.class
-[debug] 	  C:\Spark\Apps\Marker\target\scala-2.12\classes\marker\session_management\SessionManager.class
-[info] Done packaging.
+[debug] Jar uptodate: C:\Spark\Apps\Marker\target\scala-2.12\marker_2.12-1.0.jar
